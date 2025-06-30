@@ -26,5 +26,15 @@
 		"hurryCostModifier": 0,
 		"uniques": ["[+100]% [Food] [in this city]"],
 		"requiredTech": "Engineering"
+	},
+		{
+		"name": "Just Tradition",
+		"maintenance": 6,
+		"hurryCostModifier": 6,
+		"cost": 1500"
+		"culture": 24,
+		"isNationalWonder": "true",
+		"uniques": ["[+100]% [Food] [in this city]","Only available <upon adopting [Tradition5 Complete]>",
+		 "[6] [Culture] [in all cities]",  "[4] [Food] [in all cities]", "[+100]% [Production] when building [Utopia Project] <in all cities>",
 	}
   ]
