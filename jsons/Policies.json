@@ -6,7 +6,8 @@
         },
         "uniques": [
             "[+3 Culture] [in capital]",
-            "[-12]% Culture cost of natural border growth [in all cities]"
+            "[-12]% Culture cost of natural border growth [in all cities]",
+                "Only Available <after adopting [Tradition Complete]>"
         ],
         "policies": [
             {
@@ -58,7 +59,7 @@
                 "name": "Tradition2 Complete",
                 "uniques": [
                     "[+12]% growth [in all cities]",
-                    "Provides a [Aqueduct] in your first [6] cities for free"
+                    "Provides a [Aqueduct2] in your first [4] cities for free"
                 ]
             }
         ]
@@ -70,7 +71,8 @@
         },
         "uniques": [
             "[+2 Culture] [in capital]",
-            "[-8]% Culture cost of natural border growth [in all cities]"
+            "[-8]% Culture cost of natural border growth [in all cities]",
+                "Only Available <after adopting [Tradition2 Complete]>"
         ],
         "policies": [
             {
@@ -122,7 +124,7 @@
                 "name": "Tradition3 Complete",
                 "uniques": [
                     "[+8]% growth [in all cities]",
-                    "Provides a [Aqueduct] in your first [8] cities for free"
+                    "Provides a [Aqueduct3] in your first [4] cities for free"
                 ]
             }
         ]
@@ -134,7 +136,8 @@
         },
         "uniques": [
             "[+2 Culture] [in capital]",
-            "[-5]% Culture cost of natural border growth [in all cities]"
+            "[-5]% Culture cost of natural border growth [in all cities]",
+                "Only Available <after adopting [Tradition3 Complete]>"
         ],
         "policies": [
             {
@@ -186,7 +189,7 @@
                 "name": "Tradition4 Complete",
                 "uniques": [
                     "[+5]% growth [in all cities]",
-                    "Provides a [Aqueduct] in your first [10] cities for free"
+                    "Provides a [Aqueduct4] in your first [4] cities for free"
                 ]
             }
         ]
@@ -198,7 +201,8 @@
         },
         "uniques": [
             "[+1 Culture] [in capital]",
-            "[-3]% Culture cost of natural border growth [in all cities]"
+            "[-3]% Culture cost of natural border growth [in all cities]",
+                "Only Available <after adopting [Tradition4 Complete]>"
         ],
         "policies": [
             {
@@ -250,7 +254,7 @@
                 "name": "Tradition5 Complete",
                 "uniques": [
                     "[+3]% growth [in all cities]",
-                    "Provides a [Aqueduct] in your first [12] cities for free"
+                    "Provides a [Aqueduct5] in your first [4] cities for free"
                 ]
             }
         ]
