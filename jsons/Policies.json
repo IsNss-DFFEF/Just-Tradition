@@ -1,0 +1,258 @@
+[
+{
+        "name": "Tradition2",
+        "era": "Ancient era",
+        "priorities": {
+        },
+        "uniques": [
+            "[+3 Culture] [in capital]",
+            "[-12]% Culture cost of natural border growth [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Aristocracy2",
+                "uniques": [
+                    "[+12]% Production when constructing [All] wonders [in all cities]",
+                    "[+1 Happiness] per [15] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Legalism2",
+                "uniques": [
+                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Oligarchy2",
+                "uniques": [
+                    "Units in cities cost no Maintenance",
+                    "[+25]% Strength for cities <with a garrison> <when attacking>"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Landed Elite2",
+                "uniques": [
+                    "[+8]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "requires": ["Legalism2"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Monarchy2",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [3] population [in capital]"
+                ],
+                "requires": ["Legalism2"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Tradition2 Complete",
+                "uniques": [
+                    "[+12]% growth [in all cities]",
+                    "Provides a [Aqueduct] in your first [6] cities for free"
+                ]
+            }
+        ]
+    },
+{
+        "name": "Tradition3",
+        "era": "Ancient era",
+        "priorities": {
+        },
+        "uniques": [
+            "[+2 Culture] [in capital]",
+            "[-8]% Culture cost of natural border growth [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Aristocracy3",
+                "uniques": [
+                    "[+8]% Production when constructing [All] wonders [in all cities]",
+                    "[+1 Happiness] per [20] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Legalism3",
+                "uniques": [
+                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Oligarchy3",
+                "uniques": [
+                    "Units in cities cost no Maintenance",
+                    "[+12]% Strength for cities <with a garrison> <when attacking>"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Landed Elite3",
+                "uniques": [
+                    "[+5]% growth [in capital]",
+                    "[+1 Food] [in capital]"
+                ],
+                "requires": ["Legalism3"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Monarchy3",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [5] population [in capital]"
+                ],
+                "requires": ["Legalism3"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Tradition3 Complete",
+                "uniques": [
+                    "[+8]% growth [in all cities]",
+                    "Provides a [Aqueduct] in your first [8] cities for free"
+                ]
+            }
+        ]
+    },
+{
+        "name": "Tradition4",
+        "era": "Ancient era",
+        "priorities": {
+        },
+        "uniques": [
+            "[+2 Culture] [in capital]",
+            "[-5]% Culture cost of natural border growth [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Aristocracy4",
+                "uniques": [
+                    "[+5]% Production when constructing [All] wonders [in all cities]",
+                    "[+1 Happiness] per [25] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Legalism4",
+                "uniques": [
+                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Oligarchy4",
+                "uniques": [
+                    "Units in cities cost no Maintenance",
+                    "[+6]% Strength for cities <with a garrison> <when attacking>"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Landed Elite4",
+                "uniques": [
+                    "[+3]% growth [in capital]",
+                    "[+1 Food] [in capital]"
+                ],
+                "requires": ["Legalism4"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Monarchy4",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [8] population [in capital]"
+                ],
+                "requires": ["Legalism4"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Tradition4 Complete",
+                "uniques": [
+                    "[+5]% growth [in all cities]",
+                    "Provides a [Aqueduct] in your first [10] cities for free"
+                ]
+            }
+        ]
+    },
+{
+        "name": "Tradition5",
+        "era": "Ancient era",
+        "priorities": {
+        },
+        "uniques": [
+            "[+1 Culture] [in capital]",
+            "[-3]% Culture cost of natural border growth [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Aristocracy5",
+                "uniques": [
+                    "[+3]% Production when constructing [All] wonders [in all cities]",
+                    "[+1 Happiness] per [30] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Legalism5",
+                "uniques": [
+                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Oligarchy5",
+                "uniques": [
+                    "Units in cities cost no Maintenance",
+                    "[+3]% Strength for cities <with a garrison> <when attacking>"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Landed Elite5",
+                "uniques": [
+                    "[+2]% growth [in capital]",
+                    "[+1 Food] [in capital]"
+                ],
+                "requires": ["Legalism5"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Monarchy5",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [13] population [in capital]"
+                ],
+                "requires": ["Legalism5"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Tradition5 Complete",
+                "uniques": [
+                    "[+3]% growth [in all cities]",
+                    "Provides a [Aqueduct] in your first [12] cities for free"
+                ]
+            }
+        ]
+    }
+]
