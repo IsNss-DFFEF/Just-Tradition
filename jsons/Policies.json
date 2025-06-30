@@ -253,8 +253,7 @@
             {
                 "name": "Tradition5 Complete",
                 "uniques": [
-                    "[+3]% growth [in all cities]",
-                    "Provides a [Aqueduct5] in your first [4] cities for free"
+                    "Provides a [Aqueduct] in your first [24] cities for free"
                 ]
             }
         ]
